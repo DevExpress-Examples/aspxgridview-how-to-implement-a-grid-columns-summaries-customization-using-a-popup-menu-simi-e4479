@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [SummaryFooterCell.cs](./CS/WebSite/App_Code/SummaryFooterCell.cs) (VB: [SummaryFooterCell.vb](./VB/WebSite/App_Code/SummaryFooterCell.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+<!-- default file list end -->
 # ASPxGridView - How to implement a grid column's summaries customization using a popup menu similar to WinForms Grid
 
 
